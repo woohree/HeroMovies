@@ -6,7 +6,7 @@
 
 ### 히어로 영화들만 모아 볼 수 있는 사이트
 
-![ezgif.com-gif-maker (3)](README.assets/ezgif.com-gif-maker (3).gif)
+![1](README.assets/1.gif)
 
 #### 주요기능
 
@@ -14,19 +14,19 @@
 
 유저의 좋아요, 리뷰(+평점) 정보를 기반으로 영화를 추천해준다.
 
-![ezgif.com-gif-maker (1)](README.assets/ezgif.com-gif-maker (1).gif)
+![2](README.assets/2.gif)
 
 ##### 2. 리뷰 등록
 
 영화에 마우스를 올리면, 별점을 줄 수 있다. 별점을 누르면 리뷰 등록 페이지로 이동
 
-![ezgif.com-gif-maker (2)](README.assets/ezgif.com-gif-maker (2).gif)
+![3](README.assets/3.gif)
 
 ##### 3. 상세정보 및 좋아요!
 
 영화 상세정보 페이지에서 하트를 누르면 좋아요 반영
 
-![ezgif.com-gif-maker](README.assets/ezgif.com-gif-maker.gif)
+![4](README.assets/4.gif)
 
 
 
